@@ -1,0 +1,15 @@
+Index: ../../ProgramadorA/ProyectoCalculadora/src/Calculadora.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>java\r\npublic class Calculadora {\r\n    private Suma suma;\r\n    private Division division;\r\n\r\n    public Calculadora() {\r\n        this.suma = new Suma();\r\n        this.division = new Division();\r\n    }\r\n\r\n    public double sumar(double a, double b) {\r\n        return suma.calcular(a, b);\r\n    }\r\n\r\n    public double dividir(double a, double b) {\r\n        return division.dividir(a, b);\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../ProgramadorA/ProyectoCalculadora/src/Calculadora.java b/../../ProgramadorA/ProyectoCalculadora/src/Calculadora.java
+--- a/../../ProgramadorA/ProyectoCalculadora/src/Calculadora.java	(revision 7d125b7846af1b57d6a73fc7f3fae91f08794091)
++++ b/../../ProgramadorA/ProyectoCalculadora/src/Calculadora.java	(date 1777471966259)
+@@ -1,4 +1,3 @@
+-java
+ public class Calculadora {
+     private Suma suma;
+     private Division division;
