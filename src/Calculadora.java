@@ -1,12 +1,13 @@
+java
 public class Calculadora {
     private Suma suma;
-    private Multiplicacion multiplicacion;
-    private Resta resta;
     private Division division;
-    public  Calculadora(){
+
+    public Calculadora() {
         this.suma = new Suma();
-        this.multiplicacion=new Multiplicacion();
+        this.division = new Division();
     }
+
     public double sumar(double a, double b) {
         return suma.calcular(a, b);
     }
