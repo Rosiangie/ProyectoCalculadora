@@ -1,5 +1,6 @@
 public class App {
     static void main() {
-        System.out.println("Calculadora Inicializada");
+        Calculadora calc = new Calculadora();
+        System.out.println("SUMA: 5 + 3 = " + calc.sumar(5, 3));
     }
 }
