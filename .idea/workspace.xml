@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dff91b30-5a30-4c64-9e4e-5c6dcbc60d2a" name="Changes" comment="">
+      <change afterPath="$USER_HOME$/ProgramadorA/ProyectoCalculadora/src/Division.java" afterDir="false" />
       <change beforePath="$USER_HOME$/ProgramadorA/ProyectoCalculadora/.idea/ProyectoCalculadora.iml" beforeDir="false" />
       <change beforePath="$USER_HOME$/ProgramadorA/ProyectoCalculadora/.idea/misc.xml" beforeDir="false" afterPath="$USER_HOME$/ProgramadorA/ProyectoCalculadora/.idea/misc.xml" afterDir="false" />
       <change beforePath="$USER_HOME$/ProgramadorA/ProyectoCalculadora/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$USER_HOME$/ProgramadorA/ProyectoCalculadora/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/ProgramadorA/ProyectoCalculadora/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/ProgramadorA/ProyectoCalculadora/src/Calculadora.java" beforeDir="false" afterPath="$USER_HOME$/ProgramadorA/ProyectoCalculadora/src/Calculadora.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +26,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/division" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/ProgramadorA/ProyectoCalculadora" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -43,7 +48,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature/division&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/ProgramadorB/ProyectoCalculadora&quot;,
